@@ -1,5 +1,5 @@
 {
-  "name": "tech-blog",
+  "name": "fonzo-tech-blog",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/epicasino/tech-blog.git"
+    "url": "git+https://github.com/Af0nz0/tech-blog.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/epicasino/tech-blog/issues"
+    "url": "https://github.com/Af0nz0/tech-blog/issues"
   },
-  "homepage": "https://github.com/epicasino/tech-blog#readme",
+  "homepage": "https://github.com/Af0nz0/tech-blog#readme",
   "dependencies": {
     "axios": "^1.4.0",
     "bcrypt": "^5.1.0",
